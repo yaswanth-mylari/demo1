@@ -3,3 +3,4 @@ this is done in branching
 this is done in branching with out fast forwarding
 this is in main branch
 This is a rebase statement
+main branch rebase conflict stmt
