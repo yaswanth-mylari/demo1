@@ -12,3 +12,5 @@ This goes to commit
 This goes to add
 ##This is heading 4
 This will only be modified
+##THis is on automatic merges
+merging all commits in main and subbranch
