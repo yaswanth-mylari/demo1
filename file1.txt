@@ -7,3 +7,4 @@ main branch rebase conflict stmt
 changes in local vs remote systems done in remote system
 Stashing basic cmd line. Now the previous line appears
 Tracked stashing line
+Tag line file1
