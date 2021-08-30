@@ -1,3 +1,4 @@
 sadasd
 grpfile1 for stash branching
-Main branch conflict file 
+Assignment4 conflict statement
+conflict statement in main
